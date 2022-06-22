@@ -131,6 +131,6 @@ public class App {
     public static void main(String[] args) {
         new App();
     }
-
-
+    git remote add origin https://github.com/AnkitMishra47/Sudoku.git
 }
+

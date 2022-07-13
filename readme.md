@@ -1,3 +1,5 @@
+ABOUT SUDOKU SOLVER 
+
 - It's an Java based application built using Java Swing and Java Basic.
 - It uses recurssion and Backtracking.
 - It's interfaces have two tabs one is of Gird(Actual 2D array) and text to take input valid sudoku from user.

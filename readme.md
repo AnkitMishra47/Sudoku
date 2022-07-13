@@ -4,6 +4,10 @@
 - Then it returns the solved or processed Sudoku.
 
 
+
+
+
+
   How to run on your System  ?
  - Just download the ZIP file and and extract it.
  - After word first load Sudoku class and afterwards run App class.
